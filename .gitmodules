@@ -1,3 +1,6 @@
 [submodule "Advanced-Swift-Course"]
 	path = Advanced-Swift-Course
 	url = git@github.com:PabloRR100/Advanced-Swift-Course.git
+[submodule "iOS_Dev_Course"]
+	path = iOS_Dev_Course
+	url = git@github.com:PabloRR100/iOS_Dev_Course.git
